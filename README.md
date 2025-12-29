@@ -1,17 +1,28 @@
-## Hi there 👋
+# Hi, I'm Shashank 👋
 
-<!--
-**ShashankVinesh/ShashankVinesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Beginner Android developer  
+📚 Learning step by step and building small projects
 
-Here are some ideas to get you started:
+## About Me
+- Just started using GitHub to track my learning
+- Currently learning **Android development**
+- Uploading projects as I learn (mistakes included 🫠)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-sssss
+## What I’m Learning
+- Kotlin basics
+- Android Studio
+- Simple app UI
+- How Git & GitHub work
+
+## Projects
+- Practice apps
+- Small experiments
+- Learning projects (will improve over time)
+
+⭐ This GitHub is part of my learning journey.
+
+## Fun Facts:
+● I love gaming 
+● I’ve watched a lot of anime 
+● I like being unique 
+● I like people who are kind and respectful 🤝  
