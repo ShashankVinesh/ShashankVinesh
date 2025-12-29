@@ -22,7 +22,15 @@
 ⭐ This GitHub is part of my learning journey.
 
 ## Fun Facts:
-● I love gaming 
-● I’ve watched a lot of anime 
-● I like being unique 
-● I like people who are kind and respectful 🤝  
+● I love gaming    
+
+● I’ve watched a lot of anime   
+
+● I like being unique    
+
+● I like people who are kind and respectful 🤝     
+
+● Personally i like to design UI more than coding.  
+
+
+
