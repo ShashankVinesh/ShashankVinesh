@@ -1,36 +1,21 @@
-# Hi, I'm Shashank 👋
+Hi, I'm Shashank 👋
 
-🌱 Beginner Android developer  
-📚 Learning step by step and building small projects
+Android Developer | Kotlin | MVVM 
 
-## About Me
-- Just started using GitHub to track my learning
-- Currently learning **Android development**
-- Uploading projects as I learn (mistakes included 🫠)
+🚀 About Me
+- Android developer focused on scalable apps
+- Building real-world applications
+- Learning clean architecture & performance optimization
 
-## What I’m Learning
-- Kotlin basics
-- Android Studio
-- Simple app UI
-- How Git & GitHub work
+🛠 Tech Stack
+- Kotlin
+- Room Database
+- Retrofit
+- Firebase
+- MVVM Architecture
+- Coroutines & Flow
 
-## Projects
-- Practice apps
-- Small experiments
-- Learning projects (will improve over time)
+📱 Projects
 
-⭐ This GitHub is part of my learning journey.
-
-## Fun Facts:
-● I love gaming    
-
-● I’ve watched a lot of anime   
-
-● I like being unique    
-
-● I like people who are kind and respectful 🤝     
-
-● Personally i like to design UI more than coding.  
-
-
-
+📫 Contact
+Email: shashankvinesh@gmail.com
