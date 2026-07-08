@@ -9,13 +9,15 @@ Android Developer | Kotlin | MVVM
 
 🛠 Tech Stack
 - Kotlin
+- Jetpack compose
 - Room Database
 - Retrofit
 - Firebase
 - MVVM Architecture
 - Coroutines & Flow
+  
 
-📱 Projects
+
 
 📫 Contact
 Email: shashankvinesh@gmail.com
